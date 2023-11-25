@@ -1,10 +1,8 @@
-# kodluyoruzilkrepo
-Kodluyoruz Eğitimi kapsamında açtığım ilk repo
-Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
-https://app.patika.dev/slmbbr
-![github](Kodluyoruz Eğitimi kapsamında açtığım ilk repo.png.)
+# Kodluyoruz için ilk repo
+[Kodluyoruz](https://www.kodluyoruz.org)'da aldığım Frontend-101 eğitimi kapsamında açtığım ilk repom!
+İçerisinde bir adet README.md dosyası ve bir adet de index.html dosyası barındırıyor.
 
-## Installation
+## Installation - İndirme
 
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 
@@ -12,7 +10,7 @@ https://app.patika.dev/slmbbr
 git clone https://github.com/cengizcmataraci/kodluyoruzilkrepo.git
 ```
 
-## Usage
+## Usage - Kullanım
 
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
@@ -22,9 +20,9 @@ cd kodluyoruzilkrepo
 code .
 ```
 
-## Contributing
+## Contributing - Katkıda Bulunma
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/)ruz Eğitimi kapsamında açtığım ilk repo
+## License - Lisans
+[MIT](https://choosealicense.com/licenses/mit/)
